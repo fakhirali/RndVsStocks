@@ -8,3 +8,6 @@ Maybe a model could?
 ![rnd](/randomWalk.png)
 
 
+## Update
+A model is able to detect the difference.  
+But does that prove that the two are different?
